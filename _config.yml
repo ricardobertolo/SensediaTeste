@@ -4,11 +4,11 @@ tagline:      Documentações e tutoriais sobre a integração
 permalink:    /:categories/:slug
 baseurl:      ""
 author:
-  name:       João Batista Neto
-  email:      neto.joaobatista@gmail.com
-  url:        https://imasters.com.br/
+  name:       
+  email:      
+  url:        
 github:
-  repo:       https://github.com/developercielo
+  repo:       https://github.com/sensediateste.github.io
 plugins:
   - jekyll-multiple-languages-plugin
 exclude:      ["vendor", "Gemfile*", "script", "node_modules", "tmp"]
