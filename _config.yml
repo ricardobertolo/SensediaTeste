@@ -8,7 +8,7 @@ author:
   email:      
   url:        
 github:
-  repo:       https://github.com/sensediateste.github.io
+  repo:       https://github.com/ricardobertolo/sensediateste.github.io
 plugins:
   - jekyll-multiple-languages-plugin
 exclude:      ["vendor", "Gemfile*", "script", "node_modules", "tmp"]
