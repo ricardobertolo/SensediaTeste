@@ -1,5 +1,5 @@
-# developercielo.github.io
+# sensediateste.github.io
 
-[Site de documentações, tutoriais e FAQ](https://developercielo.github.io/)
+[Site de documentações, tutoriais e FAQ](https://sensediateste.github.io/)
 
-![Build](https://travis-ci.org/DeveloperCielo/developercielo.github.io.svg?branch=docs)
+![Build](https://travis-ci.org/ricardobertolo/sensediateste.github.io.svg?branch=docs)
